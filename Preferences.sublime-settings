@@ -1,0 +1,22 @@
+//{
+//	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+//	"ignored_packages":
+//	[
+//		"Vintage"
+//	],
+//	"theme": "Soda Dark.sublime-theme"
+//}
+//{
+//  "theme": "Spacegray.sublime-theme",
+//  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
+//}
+
+{
+  "theme": "Spacegray Eighties.sublime-theme",
+  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+}
+
+//{
+//  "theme": "Spacegray Light.sublime-theme",
+//  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
+//}
